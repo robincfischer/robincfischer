@@ -1,16 +1,20 @@
-## Hi there 👋
+# Robin Fischer
 
-<!--
-**robincfischer/robincfischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD Researcher at WU Vienna · Institute of Data, Energy, and Sustainability
 
-Here are some ideas to get you started:
+I work at the intersection of firm-level economics and machine learning,
+with a focus on how firms adapt to the green transition.
+Currently applying Bayesian and ML methods to high-dimensional micro data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research
+- **Working Paper:** [The Widening Profitability Gap between Renewable and 
+  Fossil Power Firms in Europe](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6080926)
+
+## Skills
+- **Methods:** Bayesian Inference · Machine Learning · Causal Inference
+- **Languages:** Python · R
+- **Tools:** PyTorch · XGBoost · scikit-learn · PyMc
+
+## Links
+🌐 [robincfischer.github.io](https://robincfischer.github.io)
+📧 robin.fischer@wu.ac.at
